@@ -1,17 +1,3 @@
-# IDE / editor config dosyaları
-.idea/
-.vscode/
-
-# Python derleme dosyaları
-__pycache__/
-*.pyc
-
-# Ortam dosyaları
-.env
-
-# Sistem dosyaları
-.DS_Store
-
-# Gereksiz klasörler
-shelf/
-workspace.xml
+# Default ignored files
+/shelf/
+/workspace.xml
