@@ -1,0 +1,81 @@
+[
+    {
+        "username": "aaa1",
+        "certificate_id": "newCert001",
+        "question": "What is this certificate for?",
+        "lang": "en",
+        "timestamp": "2025-05-01T23:53:32.999688Z"
+    },
+    {
+        "username": "aaa1",
+        "certificate_id": "newCert001",
+        "question": "What is this certificate for?",
+        "lang": "en",
+        "answer": "The certificate ID 'newCert001' is for verifying the authenticity and validity of a specific document, qualification, achievement, or identity.",
+        "timestamp": "2025-05-01T23:56:47.723356Z"
+    },
+    {
+        "username": "aaa1",
+        "certificate_id": "newCert001",
+        "question": "bu sertifikanın verilme tarihi nedir?",
+        "lang": "tr",
+        "answer": "newCert001 numaralı sertifikanın verilme tarihi: 15 Mart 2021.",
+        "timestamp": "2025-05-01T23:57:17.214798Z"
+    },
+    {
+        "username": "aaa1",
+        "certificate_id": "newCert001",
+        "question": "bu sertifikanın verilme amacı nedir?",
+        "lang": "tr",
+        "answer": "Bu sertifika, sahibinin belirli bir beceri veya bilgi düzeyine sahip olduğunu doğrulamak amacıyla verilmiştir.",
+        "timestamp": "2025-05-02T00:03:11.786207Z"
+    },
+    {
+        "username": "aaa1",
+        "certificate_id": "newCert001",
+        "question": "which compony gave this certificate?",
+        "lang": "en",
+        "answer": "The certificate ID 'newCert001' was issued by XYZ Company.",
+        "timestamp": "2025-05-02T00:03:40.544993Z"
+    },
+    {
+        "username": "aaa1",
+        "certificate_id": "newCert001",
+        "question": "how can i earn this certificate?",
+        "lang": "en",
+        "answer": "To earn the certificate with ID 'newCert001', you need to complete the required course or program, meet the specified criteria, and pass any assessments or exams associated with it. Contact the issuing organization for detailed information on the specific requirements for obtaining this certificate.",
+        "timestamp": "2025-05-02T01:14:26.621678Z"
+    },
+    {
+        "username": "aaa1",
+        "certificate_id": "newCert001",
+        "question": "is everyone get this certificate?",
+        "lang": "en",
+        "answer": "Not everyone receives certificate ID 'newCert001'.",
+        "timestamp": "2025-05-02T01:24:29.818981Z"
+    },
+    {
+        "username": "aaa1",
+        "certificate_id": "newCert001",
+        "question": "bu sertifika güvenilir mi?",
+        "lang": "tr",
+        "answer": "Evet, 'newCert001' numaralı sertifika güvenilirdir.",
+        "timestamp": "2025-05-02T01:26:52.852412Z"
+    },
+    {
+        "username": "aaa1",
+        "certificate_id": "mock001",
+        "question": "what is this certificate about?",
+        "lang": "en",
+        "answer": "The certificate ID 'mock001' is about a mock certification.",
+        "timestamp": "2025-05-09T21:45:28.792785Z"
+    },
+    {
+        "username": "aaa1",
+        "certificate_id": "mock001",
+        "question": "when is the certificate entered to the system?",
+        "lang": "en",
+        "answer": "The certificate ID 'mock001' was entered into the system on January 15, 2022.",
+        "timestamp": "2025-05-09T21:46:05.910430Z"
+    }
+]

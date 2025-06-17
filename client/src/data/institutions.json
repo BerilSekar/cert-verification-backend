@@ -1,0 +1,102 @@
+[
+    {
+        "name": "İstanbul Üniversitesi",
+        "domain": "istanbul.edu.tr",
+        "code": "IST-2025"
+    },
+    {
+        "name": "Anadolu Üniversitesi",
+        "domain": "anadolu.edu.tr",
+        "code": "ANA-2025"
+    },
+    {
+        "name": "Boğaziçi Üniversitesi",
+        "domain": "boun.edu.tr",
+        "code": "BOU-2025"
+    },
+    {
+        "name": "İstanbul Teknik Üniversitesi",
+        "domain": "itu.edu.tr",
+        "code": "ITU-2025"
+    },
+    {
+        "name": "Yıldız Teknik Üniversitesi",
+        "domain": "yildiz.edu.tr",
+        "code": "YTU-2025"
+    },
+    {
+        "name": "Marmara Üniversitesi",
+        "domain": "marmara.edu.tr",
+        "code": "MAR-2025"
+    },
+    {
+        "name": "Gazi Üniversitesi",
+        "domain": "gazi.edu.tr",
+        "code": "GAZ-2025"
+    },
+    {
+        "name": "Hacettepe Üniversitesi",
+        "domain": "hacettepe.edu.tr",
+        "code": "HAC-2025"
+    },
+    {
+        "name": "Ege Üniversitesi",
+        "domain": "ege.edu.tr",
+        "code": "EGE-2025"
+    },
+    {
+        "name": "Dokuz Eylül Üniversitesi",
+        "domain": "deu.edu.tr",
+        "code": "DEU-2025"
+    },
+    {
+        "name": "Selçuk Üniversitesi",
+        "domain": "selcuk.edu.tr",
+        "code": "SEL-2025"
+    },
+    {
+        "name": "Atatürk Üniversitesi",
+        "domain": "atauni.edu.tr",
+        "code": "ATA-2025"
+    },
+    {
+        "name": "Çukurova Üniversitesi",
+        "domain": "cu.edu.tr",
+        "code": "CUK-2025"
+    },
+    {
+        "name": "Karadeniz Teknik Üniversitesi",
+        "domain": "ktu.edu.tr",
+        "code": "KTU-2025"
+    },
+    {
+        "name": "Ondokuz Mayıs Üniversitesi",
+        "domain": "omu.edu.tr",
+        "code": "OMU-2025"
+    },
+    {
+        "name": "Sakarya Üniversitesi",
+        "domain": "sakarya.edu.tr",
+        "code": "SAK-2025"
+    },
+    {
+        "name": "Pamukkale Üniversitesi",
+        "domain": "pau.edu.tr",
+        "code": "PAU-2025"
+    },
+    {
+        "name": "Akdeniz Üniversitesi",
+        "domain": "akdeniz.edu.tr",
+        "code": "AKD-2025"
+    },
+    {
+        "name": "Uludağ Üniversitesi",
+        "domain": "uludag.edu.tr",
+        "code": "ULU-2025"
+    },
+    {
+        "name": "Eskişehir Osmangazi Üniversitesi",
+        "domain": "ogu.edu.tr",
+        "code": "OGU-2025"
+    }
+]
